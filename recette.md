@@ -5,12 +5,13 @@ poivre
 =======
 sel
 >>>>>>> ingredients
-lait
+fruit
 beurre
 oeufs
 
 Etape 1
 Etape 2
+Etape 2.5
 Etape 3
 =======
 Poêle
