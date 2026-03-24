@@ -1,5 +1,4 @@
 farine
-sel
 poivre
 lait
 beurre
