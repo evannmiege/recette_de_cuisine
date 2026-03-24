@@ -13,6 +13,6 @@ Etape 1
 Etape 2
 Etape 3
 =======
-Casserole
 Poêle
+Marmite
 >>>>>>> ingredients
