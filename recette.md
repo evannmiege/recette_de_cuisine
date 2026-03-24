@@ -1,5 +1,2 @@
-farine
-sel
-lait
-beurre
-oeufs
+Casserole
+Poêle
